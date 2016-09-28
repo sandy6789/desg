@@ -1,0 +1,128 @@
+.storeDescTd, body {
+  background: #080808 url('http://s20.postimg.org/ushhjz8ul/page_bg.jpg') repeat-x center top;
+  color: #000000;
+  margin: 0px;
+  padding: 50px 0;
+  font-size: 12px;
+}
+/* EbayShop */
+
+#StoreCategories { padding-left: 7px;border-top: 1px solid #000000; color:#000000; padding: 3px; line-height: 20px; font-size:11px; font-family: 'Open Sans', sans-serif !important;}
+#StoreCategories span{ color:#000000; line-height: 20px; font-size:11px; font-family: 'Open Sans', sans-serif !important;}
+#StoreCategories td{ border-bottom: 1px solid #000000; font-size:11px; font-family: 'Open Sans', sans-serif !important;}
+#StoreCategories a{ font-size:11px; text-decoration:none; color:#000000; padding-left: 3px; font-family: 'Open Sans', sans-serif !important;}
+#StoreCategories a:hover{ color: #940000; }
+
+#PromoListView { background-color:#ffffff; }
+#PromoListView a{ color: #000000; font-family: 'Open Sans', sans-serif !important;}
+#PromoListView a:hover{ color: #CECECE;}
+#PromoListView img{}
+
+
+
+/* Hintergrundfarbe fï¿½r den Body von Content-Tabellen (alternativ 2) */
+.bgrColorContentTablesBodyAlt2 {
+	background-color: #868686 }
+
+/* Text fï¿½r Content-Tabellen (fï¿½r den body der Tabellen) */
+.textContentTablesBody {
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000000 }
+
+/* Text fï¿½r Content-Tabellen (fï¿½r den body der Tabellen - alternativ 1) */
+.textContentTablesBodyAlt1 {
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000000; }
+
+/* Hintergrundfarbe fï¿½r rechte Seite im Content-Bereich */
+.bgrColorContentRight {
+	background-color: #EFF0F3; }
+
+
+.navigation-tabs { background: #000 url('http://s20.postimg.org/v2p03bngp/navigation_tabs_bg.png') repeat-x left top; height: 34px; }
+.navigation-tabs a { position: relative; margin-right: -45px; background: url('http://s20.postimg.org/eb3okkn7x/navigation_tabs.png') no-repeat right top; padding: 0 50px; display: inline-block; height: 34px; text-align: center; font: normal 18px/34px 'Open Sans', sans-serif !important; color: #fff; text-decoration: none; font-weight:bold; }
+.navigation-tabs a:hover { background-position: right -34px; }
+.navigation-tabs a.active { background-position: right -68px; }
+.navigation-tabs a:first-child { padding-left: 25px; }
+
+.navigation-links { background: url('http://s20.postimg.org/eg7fu8uix/navigation_sub_bg.png') repeat-x left top; height: 49px; padding: 0 20px; }
+.navigation-links a { display: inline-block; font: normal 14px/49px 'Open Sans', sans-serif !important; color: #fff; margin: 0 20px; text-decoration: none; text-shadow: 0px 1px 0px rgba(0,0,0,0.4); }
+
+.navigation-info { height: 33px; background: url('http://s20.postimg.org/4lgao0qkp/navigation_information_bg.png') repeat-x left top; padding: 0 20px; font: normal 12px/33px 'Open Sans', sans-serif !important; color: #fff; }
+
+div.box { position: relative; padding: 20px; margin-bottom: 10px; -moz-box-shadow: 0 0 10px #DDDDDD inset; -webkit-box-shadow: 0 0 10px #DDDDDD inset; box-shadow: 0 0 10px #DDDDDD inset; }
+
+td.left { width: 220px; overflow: hidden; }
+td.left div.box { margin-bottom: 0; }
+
+.teaser { padding-bottom: 10px; }
+
+.spacer { width: 10px; }
+
+td.right { width: 550px; }
+
+div.box, div.box table { font: normal 14px/18px 'Open Sans', sans-serif !important; }
+div.box h2 { font: bold 18px/27px 'Open Sans', sans-serif !important; color: #000; margin: 0 0 10px; }
+div.box ul { margin: 0; padding: 0; padding-left: 20px;}
+div.box h3 { font: 16px/24px 'Open Sans', sans-serif !important; margin: 0 0 10px; }
+
+div.box.red { color: #fff; background: #9a0202; background-image: url('http://s20.postimg.org/3lpzsbbex/box_red_bottom.png'), url('http://s20.postimg.org/5eswgmwll/box_red_top.png'); background-repeat: repeat-x; background-position: bottom left, left top; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none;  }
+
+div.box.carbon { border-bottom: 1px solid #000; border-top: 1px solid #333; color: #fff; background-image: url('http://s20.postimg.org/swup8tk0d/box_carbon_top.png'); background-repeat: repeat-x ; background-position: top left; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; font-size:12px !important; }
+
+div.box.carbon1 { border-bottom: 1px solid #000; border-top: 1px solid #333; color: #fff; background-image: url('http://s20.postimg.org/svkrfei6l/box_carbon_top1.png'); background-repeat: repeat-x ; background-position: top left; -moz-box-shadow: none; -webkit-box-shadow: none; box-shadow: none; }
+
+div.box.carbon1 a { text-decoration:none !important; color:#FFF; font-size:14px; line-height:24px !important; font-family: 'Open Sans', sans-serif !important; }
+
+div.box.carbon ul { text-decoration:none !important; color:#FFF; font-size:14px; line-height:24px !important; font-family: 'Open Sans', sans-serif !important; }
+
+.tag { position: absolute; top: 0; right: 0; }
+
+.images { text-align: center; }
+.images a { display: inline-block; margin: 5px; }
+/*----- Left Category Box -----*/
+div.leftcat { padding: 5px 10px; }
+div.leftcat div.MenuItem a div.MenuItemImage { display: none; }
+div.leftcat div.haschild a div.MenuItemImage {
+display: block;
+position: absolute;
+margin: 0 0 0 153px;
+width: 22px;
+height: 22px;
+background: url('img/leftcat-icon18.png') no-repeat center 4px!important;
+}
+div.leftcat div.haschild:hover a div.MenuItemImage { background: url('img/leftcat-icon-hover18.png') no-repeat center 4px!important; }
+div.leftcat div.MenuItem {
+line-height: 18px;
+padding: 4px 15px 4px 0;
+border-bottom: 1px dotted #DDDDDD;
+}
+div.leftcat div.MenuItem a {
+text-decoration: none!important;
+color: #fff!important;
+font-size: 12px;
+padding: 0;
+line-height: 18px;
+display: block;
+}
+div.leftcat div.MenuItem:hover { background-color: #000; }
+div.leftcat div.MenuItem:hover a { color: #FFFFFF!important; }
+div.leftcat div.haschild div {
+position: absolute;
+margin: -22px 0 0 168px;
+background-color: #000000;
+width: 190px;
+z-index: 1;
+}
+div.leftcat div.haschild div div.MenuChildItem {
+position: relative;
+margin: 0;
+padding: 3px 10px;
+width: auto;
+}
+div.leftcat div.haschild div div.MenuChildItem a { color: #FFFFFF!important; font-size: 12px; }
+div.leftcat div.haschild div div.MenuChildItem:hover a { text-decoration: underline!important; }
+div.leftcat div a img { display:none;}
+.newlletter1{ width:100px!important; height:30px; cursor:pointer; font-size: 14px; float:left; background:#000; border:0px; font:400 14px/30px 'Open Sans', sans-serif; color:#fff; font-weight:bold; margin: 0 0 10px 60px;}
